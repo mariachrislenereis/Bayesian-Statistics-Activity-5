@@ -6,6 +6,7 @@ An activity worked with groupmates (Angelica Añinon, Jonna Apolinar, Diego Emma
 
 ## Script/Code (1st Picture)
 
+```python
 import scipy.stats as sts
 import numpy as np
 import matplotlib.pyplot as plt
@@ -22,10 +23,11 @@ plt.plot (mu, uniform_dist, label = 'Uuniform Dist')
 plt.xlabel ("Value of $\mu$ in meters")
 plt.ylabel ("Probability density")
 plt.legend()
-
+```
 
 ## Script/Code (2nd Picture)
 
+```python
 import scipy.stats as sts
 import numpy as np
 import matplotlib.pyplot as plt
@@ -45,10 +47,11 @@ plt.title("Likelihood of $\mu$ given observation 1.7m")
 plt.ylabel("Probability Density/Likelihood")
 plt.xlabel("Value of $\mu$")
 plt.show()
-
+```
 
 ## Script/Code (3rd Picture)
 
+```python
 import scipy.stats as sts
 import scipy as sp
 import numpy as np
@@ -84,6 +87,7 @@ plt.plot(mu, unnormalized_posterior)
 plt.xlabel("$\mu$ in meters")
 plt.ylabel("Unnormalized Posterior")
 plt.show()
+```
 
 ## Screenshot of the Output
 
