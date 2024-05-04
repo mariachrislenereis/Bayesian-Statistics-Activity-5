@@ -24,7 +24,7 @@ plt.ylabel ("Probability density")
 plt.legend()
 
 
-Script/Code (2nd Picture)
+## Script/Code (2nd Picture)
 
 import scipy.stats as sts
 import numpy as np
@@ -47,7 +47,7 @@ plt.xlabel("Value of $\mu$")
 plt.show()
 
 
-Script/Code (3rd Picture)
+## Script/Code (3rd Picture)
 
 import scipy.stats as sts
 import scipy as sp
@@ -85,7 +85,7 @@ plt.xlabel("$\mu$ in meters")
 plt.ylabel("Unnormalized Posterior")
 plt.show()
 
-Screenshot of the Output
+### Screenshot of the Output
 
 ![activity 5 1](https://github.com/mariachrislenereis/Bayesian-Statistics-Activity-3/assets/168893458/96b7d85e-25dd-444d-a8bf-1e64af96cb5d)
 
