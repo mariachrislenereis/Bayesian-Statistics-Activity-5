@@ -4,7 +4,7 @@ Activity 5: Coding the sample scripts in Python
 An activity worked with groupmates (Angelica Añinon, Jonna Apolinar, Diego Emmanuel Corder, Maria Chrislene Reis, and Mark Anthony Viray)
 
 
-Script/Code (1st Picture)
+## Script/Code (1st Picture)
 
 import scipy.stats as sts
 import numpy as np
