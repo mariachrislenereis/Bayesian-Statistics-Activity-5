@@ -93,12 +93,12 @@ plt.show()
 
 ![activity 5 1](https://github.com/mariachrislenereis/Bayesian-Statistics-Activity-3/assets/168893458/96b7d85e-25dd-444d-a8bf-1e64af96cb5d)
 
-## Note
-
-For educational purposes.
-
 
 ![activity 5 2](https://github.com/mariachrislenereis/Bayesian-Statistics-Activity-3/assets/168893458/93b2c20b-d91f-4b59-9562-b0ea0371f9db)
 
 
 ![activity 5 3](https://github.com/mariachrislenereis/Bayesian-Statistics-Activity-3/assets/168893458/c1279f95-dc7c-4e90-bbf7-e0862494a8d0)
+
+## Note
+
+For educational purposes.
